@@ -1,0 +1,17 @@
+NAME
+  VectorFieldTopology
+DESCRIPTION
+  Building the VTK Vector Field Topology filter for Paraview
+REQUIRES_MODULES
+  VTK::CommonCore
+  VTK::FiltersCore
+  VTK::CommonComputationalGeometry
+  VTK::CommonDataModel
+  VTK::CommonExecutionModel
+  VTK::CommonMath
+  VTK::FiltersGeneral
+  VTK::FiltersGeometry
+  VTK::FiltersModeling
+  VTK::FiltersSources
+  VTK::IOCore
+  VTK::eigen
